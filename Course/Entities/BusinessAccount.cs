@@ -18,7 +18,7 @@
         {
             if (amount <= LoanLimit)
             {
-                Balance += amount - 10.0;
+                Balance += amount;
             }
         }
     }
